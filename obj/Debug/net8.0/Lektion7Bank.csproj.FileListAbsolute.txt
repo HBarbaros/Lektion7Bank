@@ -1,0 +1,14 @@
+/Users/barbarosozdogan/Lektion7Bank/bin/Debug/net8.0/Lektion7Bank
+/Users/barbarosozdogan/Lektion7Bank/bin/Debug/net8.0/Lektion7Bank.deps.json
+/Users/barbarosozdogan/Lektion7Bank/bin/Debug/net8.0/Lektion7Bank.runtimeconfig.json
+/Users/barbarosozdogan/Lektion7Bank/bin/Debug/net8.0/Lektion7Bank.dll
+/Users/barbarosozdogan/Lektion7Bank/bin/Debug/net8.0/Lektion7Bank.pdb
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.AssemblyInfoInputs.cache
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.AssemblyInfo.cs
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.csproj.CoreCompileInputs.cache
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.dll
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/refint/Lektion7Bank.dll
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.pdb
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.genruntimeconfig.cache
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/ref/Lektion7Bank.dll
