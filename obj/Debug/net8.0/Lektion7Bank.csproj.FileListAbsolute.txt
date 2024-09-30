@@ -12,3 +12,4 @@
 /Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.pdb
 /Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.genruntimeconfig.cache
 /Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/ref/Lektion7Bank.dll
+/Users/barbarosozdogan/Lektion7Bank/obj/Debug/net8.0/Lektion7Bank.sourcelink.json
